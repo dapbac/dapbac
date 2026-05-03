@@ -1,16 +1,19 @@
-<h1 align="center">Olá, eu sou o Marcus! 👋</h1>
-<h3 align="center">DAPB</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DAPB&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Acreano%20Python%20Branco&descAlignY=55&descAlign=50" width="100%" />
+</div>
+
+<h2 align="center">Olá, eu sou o Marcus! 👋</h2>
 
 <p align="center">
-  Especialista em automação de servidores no Discord, painéis web e integrações completas para ambientes de Roleplay.
+  <i>Especialista em automação de servidores no Discord, painéis web e integrações completas para ambientes de Roleplay.</i>
 </p>
 
 <p align="center">
-  <a href="https://discord.com/channels/@me/1463254682091782453/1499194615343878156"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:adriano.czsdh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/fqWUFZhgTe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:adriano.czsdh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<br>
 
 ### 💻 Minhas Especialidades
 <p align="left">
@@ -21,15 +24,23 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<br>
+
 ### 🛠️ Foco de Desenvolvimento
-- 🤖 **Bots para Discord:** Implementação de Slash Commands, Ticket Systems e Reaction Roles para gestão avançada de comunidades.
+> Transformando ideias em sistemas automatizados e eficientes para comunidades.
+
+- 🤖 **Bots para Discord:** Implementação de Slash Commands, Ticket Systems e Reaction Roles para gestão avançada.
 - 🌐 **Web Dashboards:** Criação de painéis para administração e controle de contratos de funcionários.
 - 🚓 **Sistemas para FiveM:** Desenvolvimento de automações focadas em facções, entregas de laudos médicos e controle integrado de mecânicas.
 
----
+<br>
 
 ### 🚀 O que estou construindo
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Acreano;Especialista+em+Python+e+Lua;Automações+para+Discord+e+FiveM;Criador+de+Web+Dashboards" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
