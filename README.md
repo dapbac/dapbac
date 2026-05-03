@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="LINK_DO_SEU_LINKEDIN_OU_DISCORD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@me/1463254682091782453/1499194615343878156"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="mailto:adriano.czsdh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
@@ -28,9 +28,8 @@
 
 ---
 
-### 📊 Meus Status no GitHub
+### 🚀 O que estou construindo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dapbac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Marcus" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapbac&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Acreano;Especialista+em+Python+e+Lua;Automações+para+Discord+e+FiveM;Criador+de+Web+Dashboards" alt="Typing SVG" />
 </p>
