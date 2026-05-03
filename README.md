@@ -22,6 +22,20 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_REST-FF4B4B?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
+<br>
+
+### 🏆 Projetos em Destaque
+
+**⚙️ Sistema de Gestão - Mecânica Morada do Valley**
+Um sistema corporativo robusto e completo para automação de mecânicas no Roleplay.
+- **Destaques:** Integração direta com Painel Web, cálculo automático de orçamentos (Tuning e Estética), sistema completo de RH (contratos, ADVs, tickets e demissões), rádio de música avançada e cobranças automáticas via API do Mercado Pago.
+- **Tecnologias:** `Python` `APIs REST` `Mercado Pago SDK`
+
+<p align="left">
+  <a href="LINK_DO_SERVIDOR_AQUI" target="_blank"><img src="https://img.shields.io/badge/Ver_Bot_no_Servidor-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Testar Bot"></a>
 </p>
 
 <br>
