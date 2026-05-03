@@ -35,7 +35,7 @@ Um sistema corporativo robusto e completo para automação de mecânicas no Role
 - **Tecnologias:** `Python` `APIs REST` `Mercado Pago SDK`
 
 <p align="left">
-  <a href="LINK_DO_SERVIDOR_AQUI" target="_blank"><img src="https://img.shields.io/badge/Ver_Bot_no_Servidor-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Testar Bot"></a>
+  <a href="https://discord.com/channels/@me/1414015939565064284/1498490660951429200" target="_blank"><img src="https://img.shields.io/badge/Ver_Bot_no_Servidor-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Testar Bot"></a>
 </p>
 
 <br>
