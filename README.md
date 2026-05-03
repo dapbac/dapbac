@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Marcus! 👋</h1>
-<h3 align="center">DAPB - Desenvolvedor Acreano Python Branco</h3>
+<h3 align="center">DAPB</h3>
 
 <p align="center">
   Especialista em automação de servidores no Discord, painéis web e integrações completas para ambientes de Roleplay.
