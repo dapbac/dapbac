@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DAPB&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Acreano%20Python%20Branco&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DAPB&fontSize=80&animation=twinkling" width="100%" />
 </div>
 
 <h2 align="center">Olá, eu sou o Marcus! 👋</h2>
@@ -38,7 +38,7 @@
 ### 🚀 O que estou construindo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Acreano;Especialista+em+Python+e+Lua;Automações+para+Discord+e+FiveM;Criador+de+Web+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Especialista+em+Python+e+Lua;Automações+para+Discord+e+FiveM;Criador+de+Web+Dashboards;Soluções+para+Roleplay" alt="Typing SVG" />
 </p>
 
 <div align="center">
