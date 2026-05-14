@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/a/3i3yxrS" alt="DAPB Banner" width="100%">
+  <img src="https://imgur.com/mXKcEqd.png" alt="DAPB Banner" width="100%">
   
   <h1>Olá, eu sou o Marcus! 👋</h1>
   <p><em>Desenvolvedor Full Stack focado em automação, sistemas SaaS e infraestrutura escalável sob a marca <strong>DAPB</strong>.</em></p>
