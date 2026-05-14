@@ -1,60 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DAPB&fontSize=80&animation=twinkling" width="100%" />
+  <img src="https://via.placeholder.com/1000x200?text=DAPB+-+Full+Stack+Developer" alt="DAPB Banner" width="100%">
+  
+  <h1>Olá, eu sou o Marcus! 👋</h1>
+  <p><em>Desenvolvedor Full Stack focado em automação, sistemas SaaS e infraestrutura escalável sob a marca <strong>DAPB</strong>.</em></p>
+
+  <a href="seu-link-do-discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="seu-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
-<h2 align="center">Olá, eu sou o Marcus! 👋</h2>
+---
 
-<p align="center">
-  <i>Especialista em automação de servidores no Discord, painéis web e integrações completas para ambientes de Roleplay.</i>
-</p>
+### 💻 Stack Tecnológica
+<div align="left">
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <br>
+  <!-- Infra e Ferramentas -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
+  <img src="https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API REST">
+</div>
 
-<p align="center">
-  <a href="https://discord.gg/fqWUFZhgTe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:adriano.czsdh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+---
 
-<br>
+### 🏆 Projetos e Soluções em Destaque
 
-### 💻 Minhas Especialidades
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_REST-FF4B4B?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+#### 🤖 Plataforma Bot Shop
+*Desenvolvimento de soluções completas de automação para comunidades e empresas.*
+*   **Back-end:** Estruturação lógica em Python com integração de bancos de dados para persistência de tickets e logs operacionais.
+*   **Pagamentos:** Implementação de checkouts automatizados via APIs do **Stripe**, **PayPal** e **Mercado Pago**.
+*   **Gestão:** Sistema de monitoramento de processos utilizando **PM2** e contêineres **Docker**.
 
-<br>
+#### 🌐 Dashboards e Web Apps
+*Criação de painéis administrativos interativos e Landing Pages de alta conversão.*
+*   **Front-end:** Desenvolvimento de interfaces modernas com HTML5, CSS3 e JavaScript.
+*   **DevOps:** Configuração de infraestrutura em nuvem (VPS), gerenciamento de DNS e segurança via Cloudflare.
 
-### 🏆 Projetos em Destaque
+---
 
-**⚙️ Sistema de Gestão - Mecânica Morada do Valley**
-Um sistema corporativo robusto e completo para automação de mecânicas no Roleplay.
-- **Destaques:** Integração direta com Painel Web, cálculo automático de orçamentos (Tuning e Estética), sistema completo de RH (contratos, ADVs, tickets e demissões), rádio de música avançada e cobranças automáticas via API do Mercado Pago.
-- **Tecnologias:** `Python` `APIs REST` `Mercado Pago SDK`
+### 🛠️ Especialidades e Fluxo de Trabalho
+> "Transformando lógica complexa em experiências simplificadas."
 
-<p align="left">
-  <a href="https://discord.gg/uGZMe6GwyC" target="_blank"><img src="https://img.shields.io/badge/Ver_Bot_no_Servidor-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Testar Bot"></a>
-</p>
+*   🚀 **Automação SaaS:** Criação de bots e ferramentas que resolvem problemas de escala.
+*   🛡️ **Segurança e Redes:** Conhecimentos em configuração de redes, DNS e testes de infraestrutura (OSINT/Network analysis).
+*   ⚙️ **Manutenção de Sistemas:** Administração de servidores Linux e otimização de performance.
 
-<br>
-
-### 🛠️ Foco de Desenvolvimento
-> Transformando ideias em sistemas automatizados e eficientes para comunidades.
-
-- 🤖 **Bots para Discord:** Implementação de Slash Commands, Ticket Systems e Reaction Roles para gestão avançada.
-- 🌐 **Web Dashboards:** Criação de painéis para administração e controle de contratos de funcionários.
-- 🚓 **Sistemas para FiveM:** Desenvolvimento de automações focadas em facções, entregas de laudos médicos e controle integrado de mecânicas.
-
-<br>
-
-### 🚀 O que estou construindo
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Especialista+em+Python+e+Lua;Automações+para+Discord+e+FiveM;Criador+de+Web+Dashboards;Soluções+para+Roleplay" alt="Typing SVG" />
-</p>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <p>© 2026 Desenvolvido por <strong>DAPB</strong></p>
 </div>
