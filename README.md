@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/mXKcEqd.png" alt="Banner DAPB" width="100%">
+  <img src="https://imgur.com/DGh9XFi" alt="Banner DAPB" width="100%">
 
   <h1>Olá, eu sou o Marcus! 👋</h1>
 
